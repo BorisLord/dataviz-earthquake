@@ -1,5 +1,7 @@
 # Earthquake mapping
 
+<link>https://borislord.github.io/dataviz-earthquake/</link><br>
+
 This project teached us how to call and use data from an api.<br>
 
 We used the US earthquake api : <link>https://earthquake.usgs.gov</link><br>
